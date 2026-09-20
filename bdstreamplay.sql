@@ -1,6 +1,5 @@
 
 -- TRABALHO DE BANCO DE DADOS II — STREAMPLAY
--- Estrutura Completa conforme exigido no Tópico 15
 
 -- 1. CRIAÇÃO DAS TABELAS
 
